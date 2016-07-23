@@ -1,6 +1,7 @@
 shingles.rs
 ====
 
+[![Build Status](https://secure.travis-ci.org/dimack/shingles.rs.svg?branch=master)](https://travis-ci.org/dimack/shingles.rs)
 [![Crates.io Status](http://meritbadge.herokuapp.com/shingles)](https://crates.io/crates/shingles)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/dimack/shingles.rs/master/LICENSE)
 
