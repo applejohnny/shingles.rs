@@ -1,7 +1,7 @@
 shingles.rs
 ====
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iron/iron/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/dimack/shingles.rs/master/LICENSE)
 
 >  Shingles implementation in rust
 
