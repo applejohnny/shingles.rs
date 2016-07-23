@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Dmitriy <dimack@gmail.com>"]
 description = "Shingles implementation in rust"
 keywords = ["shingle", "ngram", "fuzzy"]
+# exclude files/folders, starting with dot
 exclude = [".*"]
 
 [dependencies]
