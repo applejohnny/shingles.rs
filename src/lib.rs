@@ -1,4 +1,7 @@
+pub use hasher::ShingleHasher;
+pub use shingles::{Shingles, AsShingles};
+pub use shingles_2d::{Shingles2D, AsShingles2D};
 
-pub use shingles::*;
-
+mod hasher;
 mod shingles;
+mod shingles_2d;
