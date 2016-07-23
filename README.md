@@ -5,6 +5,8 @@ shingles.rs
 
 >  Shingles implementation in rust
 
+See docs [(0.1 / master)](https://dimack.github.io/shingles.rs/0.1/shingles/)
+
 ## Overview
 **Shingles** is a crate for constructing shingles ("tokenizing") from slices and utf-8 strings.
 It was primary created to use in fuzzy matching algorithms like minhash or similar.
